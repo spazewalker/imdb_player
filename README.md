@@ -24,7 +24,7 @@ __Step 4__
 Now, you'll find an option of 'Load Unpacked', select the folder in which this repo was cloned after selecting 'Load Unpacked' option. 
 <div align="center"><img alt="image showing these steps" src="/load_extension.png" height=300></div>
 
-__Step 5__ Now visit any IMDB movie page, you'll find a 'PLAY THIS MOVIE' button as shown. Click on that and you're movie will play.
+__Step 5__ Now visit any IMDB movie page, you'll find a 'PLAY THIS MOVIE' button as shown. Click on that and your movie will play.
 <div align="center"><img alt="button" src='/demo_button.png'></div>
 
 ## More Info on Chrome Extensions

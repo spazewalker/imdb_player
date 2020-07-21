@@ -11,6 +11,7 @@ if(document.title.search('TV')>0){
 }
 
 var form = '';
+var text = 'PLAY THIS MOVIE'
 
 if(isTV){
     var link = `https://databasegdriveplayer.me/player.php?type=series&imdb=${title}&season=${season}&episode=${episode}`;
@@ -22,6 +23,7 @@ if(isTV){
                 <input type="button" value="submit" onclick="document.getElementById('movie-player').src = 'https://databasegdriveplayer.me/player.php?type=series&imdb='+document.URL.split('/')[4]+'&season='+this.form.season.value+'&episode='+this.form.episode.value;"> \ 
             </form>`;
     name = name.split('(')[0];
+    text = text.replace('MOVIE','SERIES');
 }else{
     var link = `https://databasegdriveplayer.me/player.php?imdb=${title}`;
 }
@@ -30,7 +32,7 @@ document.getElementById('wrapper').style.background = "rgba(0,0,0,0.9)";
 // Inserting button code
 item.innerHTML = (`<div class='divider'></div> \
                     <div class=''> \
-                        <div align="center"> <button class='primary play-button' style="width:250px">PLAY THIS MOVIE</button> </div> \
+                        <div align="center"> <button class='primary play-button' style="width:250px">${text}</button> </div> \
                     </div> \
                     </div>\
                     <div class='divider'></div> `) + item.innerHTML;

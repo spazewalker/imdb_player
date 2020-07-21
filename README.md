@@ -1,7 +1,7 @@
 # IMDB Movie Player
 
 ## Inroduction
-This is a small script ehich adds a 'PLAY THIS MOVIE' button in any IBDM page, which when clicked, opens a modal with a video player.
+This is a small script which adds a 'PLAY THIS MOVIE' button in any IBDM page, which when clicked, opens a modal with a video player.
 Now I won't have to copy the links over and over again :P.
 Provided movie is a pirated one, obviously.
 Give this extension a try, you won't have to search for movie links again.

@@ -5,7 +5,7 @@ This is a small script ehich adds a 'PLAY THIS MOVIE' button in any IBDM page, w
 Now I won't have to copy the links over and over again :P.
 Provided movie is a pirated one, obviously.
 Give this extension a try, you won't have to search for movie links again.
-If you like it, appriciate it by staring this repo.\
+If you like it, appriciate it, star this repo. And if you face any error, contact me\
 <img alt="example" src="/demo.png">
 
 ## Installation

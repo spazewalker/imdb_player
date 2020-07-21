@@ -6,6 +6,7 @@ Now I won't have to copy the links over and over again :P.
 Provided movie is a pirated one, obviously.
 Give this extension a try, you won't have to search for movie links again.
 If you like it, appreciate it, star this repo. And if you face any error, contact me\
+<br>
 <img alt="example" src="/demo.png">
 
 ## Installation

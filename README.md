@@ -1,11 +1,12 @@
 # IMDB Movie Player
 
-## Inroduction
+## Introduction
 This is a small script which adds a 'PLAY THIS MOVIE' button in any IBDM page, which when clicked, opens a modal with a video player.
 Now I won't have to copy the links over and over again :P.
 Provided movie is a pirated one, obviously.
 Give this extension a try, you won't have to search for movie links again.
 If you like it, appreciate it, star this repo. And if you face any error, contact me\
+[Update] To use this extention on the new verson of IMDB, use the pre-release of v2, installation process is same amd play button will appear above the videos button in the right.
 <br>
 <img alt="example" src="/example.png">
 
